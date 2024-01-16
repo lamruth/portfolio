@@ -25,7 +25,7 @@
 >Java 8 / Spring Boot / Gradle / Spring Data JPA / QueryDSL  
 >H2 / MySQL / Spring Security / Jsoup / Vue.js / Element U  
 >  
->[프로젝트 상세 설명](https://github.com/lamruth/Bello) 참고
+>[프로젝트 상세 설명](https://github.com/lamruth/Bello/blob/main/README.md) 참고
 
 ---
 
